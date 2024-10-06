@@ -1,15 +1,15 @@
 [{
-    "client_number": "100",
-    "client_name": "David",
-    "client_address": "Montreal",
-    "client_telephone": "5147221212",
+    "clNumber": "100",
+    "clName": "David",
+    "clAddr": "Montreal",
+    "clTel": "5147221212",
     "photo": "1Fr-augmented_reality.PNG"
 },
 {
-    "client_number": "200",
-    "client_name": "Merry",
-    "client_address": "Toronto",
-    "client_telephone": "4165887914",
+    "clNumber": "200",
+    "clName": "Merry",
+    "clAddr": "Toronto",
+    "clTel": "4165887914",
     "photo": "1T-artificial_intelligence.PNG"
 }
 ]
