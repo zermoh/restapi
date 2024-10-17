@@ -1,0 +1,15 @@
+{{
+    "clNumber": "100",
+    "clName": "David",
+    "clAddr": "Montreal",
+    "clTel": "5147221212",
+    "photo": "1Fr-augmented_reality.PNG"
+},
+{
+    "clNumber": "200",
+    "clName": "Merry",
+    "clAddr": "Toronto",
+    "clTel": "4165887914",
+    "photo": "1T-artificial_intelligence.PNG"
+}
+}
