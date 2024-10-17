@@ -1,4 +1,4 @@
-[      "monday": {
+[      "monday": [
         "0": {
           "acttype": "",
           "biography": "",
@@ -50,5 +50,5 @@
         "day": 18,
         "masterceremony": "Merry",
         "theme": "Foundations"
-      }
+]
 ]
