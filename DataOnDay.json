@@ -1,4 +1,4 @@
-[      "monday": [
+      "monday": {
         "0": {
           "acttype": "",
           "biography": "",
@@ -6,7 +6,7 @@
           "language": "Francais",
           "location": "Salle Jean Paul Morin ",
           "mode": "Présentiel",
-          "photo": "https://firebasestorage.googleapis.com/v0/b/prjtechweek2023.appspot.com/o/pictures%2F1M-ceremony.PNG?alt=media&token=61b9380d-d47e-4c07-8a20-37cba4254d0f",
+          "photo": "",
           "presenter": "By Abdelhak Fennouh, Mohamed Zeroug, Andrew Golden",
           "time": "9h30-10h",
           "title": "Opening ceremony"
@@ -18,7 +18,7 @@
           "language": "Francais",
           "location": "Salle Jean Paul Morin",
           "mode": "Présentiel",
-          "photo": "https://firebasestorage.googleapis.com/v0/b/prjtechweek2023.appspot.com/o/pictures%2F2M-risk_cyber.PNG?alt=media&token=591959d8-39cc-490f-8f43-fbdbe0631753",
+          "photo": "",
           "presenter": "By Dr. Jaafar Fehmi (UQAC)",
           "time": "10h00- 11h00",
           "title": "Cyber Security Risks in Artificial Intelligence"
@@ -30,7 +30,7 @@
           "language": "Francais",
           "location": "Salle Jean Paul Morin",
           "mode": "Présentiel",
-          "photo": "https://firebasestorage.googleapis.com/v0/b/prjtechweek2023.appspot.com/o/pictures%2F3M-cyber_guardien.PNG?alt=media&token=b44afee8-f8d1-4fc2-93e2-8441e3d80f57",
+          "photo": "",
           "presenter": "Panelists: Dr. Jaafar Fehmi (UQAC) Bertrand Milot (Bradley & Rollins) Panel facilitator: Patrick Carbonneau (LCI LX studio)",
           "time": "12h-13h30",
           "title": "Cyber ​​Guardians: Explore the Superpower of Cybersecurity and Data"
@@ -42,9 +42,12 @@
           "language": "Francais",
           "location": "Salle Jean Paul Morin",
           "mode": "Présentiel",
-          "photo": "https://firebasestorage.googleapis.com/v0/b/prjtechweek2023.appspot.com/o/pictures%2F4M-cyber_crime.PNG?alt=media&token=859c2038-a665-4644-8bca-c3f017f38567",
+          "photo": "",
           "presenter": "By Bertrand Milot",
           "time": "14h-15h",
           "title": "Under the hood of cybercrime."
-        }]
-]
+        },
+        "day": 18,
+        "masterceremony": "Merry",
+        "theme": "Foundations"
+      }
