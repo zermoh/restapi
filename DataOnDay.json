@@ -1,5 +1,5 @@
-[      "monday": {
-        ["0": {
+{      "monday": {
+        "0": {
           "acttype": "",
           "biography": "",
           "description": "Welcome ceremony and speech",
@@ -46,9 +46,9 @@
           "presenter": "By Bertrand Milot",
           "time": "14h-15h",
           "title": "Under the hood of cybercrime."
-        }],
+        },
         "day": 18,
         "masterceremony": "Merry",
         "theme": "Foundations"
       }
-]
+}
