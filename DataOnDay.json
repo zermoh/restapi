@@ -1,0 +1,53 @@
+      "monday": {
+        "0": {
+          "acttype": "",
+          "biography": "",
+          "description": "Welcome ceremony and speech",
+          "language": "Francais",
+          "location": "Salle Jean Paul Morin ",
+          "mode": "Présentiel",
+          "photo": "https://firebasestorage.googleapis.com/v0/b/prjtechweek2023.appspot.com/o/pictures%2F1M-ceremony.PNG?alt=media&token=61b9380d-d47e-4c07-8a20-37cba4254d0f",
+          "presenter": "By Abdelhak Fennouh, Mohamed Zeroug, Andrew Golden",
+          "time": "9h30-10h",
+          "title": "Opening ceremony"
+        },
+        "1": {
+          "acttype": "conference",
+          "biography": "Dr. Fehmi Jaafar is currently an Associate Professor at Quebec University at Chicoutimi and the Director of the Cyber Defense Research Chair. Previously, he was a Researcher at the Computer Research Institute of Montreal and an Affiliate Assistant Professor at the Department of Computer Science and Software Engineering at Concordia University. He did postdoctoral research studies at Queen’s University and Polytechnique Montreal. Dr. Fehmi Jaafar received his PhD from the Department of Computer Science at Montreal University, Canada. He is interested in cybersecurity in the Internet of Things, in the analysis and the improvement of the security and quality of software systems, and in the application of machine learning techniques in cybersecurity. His researches have been published in top venues in computer sciences, including the Journal of Empirical Software Engineering (EMSE) and the Journal of Software: Evolution and Process (JSEP). He established externally funded research programs in collaboration with Defence Canada, Safety Canada, NSERC, MITACS, industrial partners, and foreign universities.",
+          "description": "In 2019, member countries of the Organisation for Economic Co-operation and Development (OECD), including Canada, adopted the Artificial Intelligence Principles for responsible stewardship of trustworthy AI. Article 1.4 of the AI Principles states that “AI systems should be robust, secure, and safe throughout their entire lifecycle ...” In this context, several projects and initiatives setting emphasis on developing AI models that are secure in the presence of Adverse Attacks. In this presentation, we will explore a set of examples of cyber attacks targeting AI, and we will discuss how AI models can be more secure",
+          "language": "Francais",
+          "location": "Salle Jean Paul Morin",
+          "mode": "Présentiel",
+          "photo": "https://firebasestorage.googleapis.com/v0/b/prjtechweek2023.appspot.com/o/pictures%2F2M-risk_cyber.PNG?alt=media&token=591959d8-39cc-490f-8f43-fbdbe0631753",
+          "presenter": "By Dr. Jaafar Fehmi (UQAC)",
+          "time": "10h00- 11h00",
+          "title": "Cyber Security Risks in Artificial Intelligence"
+        },
+        "2": {
+          "acttype": "Panel",
+          "biography": "",
+          "description": "",
+          "language": "Francais",
+          "location": "Salle Jean Paul Morin",
+          "mode": "Présentiel",
+          "photo": "https://firebasestorage.googleapis.com/v0/b/prjtechweek2023.appspot.com/o/pictures%2F3M-cyber_guardien.PNG?alt=media&token=b44afee8-f8d1-4fc2-93e2-8441e3d80f57",
+          "presenter": "Panelists: Dr. Jaafar Fehmi (UQAC) Bertrand Milot (Bradley & Rollins) Panel facilitator: Patrick Carbonneau (LCI LX studio)",
+          "time": "12h-13h30",
+          "title": "Cyber ​​Guardians: Explore the Superpower of Cybersecurity and Data"
+        },
+        "3": {
+          "acttype": "Conference",
+          "biography": "M. Bertrand Milot est Président et co-fondateur de l’entreprise de cyberdéfense et d’innovation Bradley & Rollins. M. Milot compte plus de 20 ans d’expérience en cybersécurité ainsi qu’en modélisation de menaces, de la surveillance cybercriminelle et de la gouvernance de sécurité d’entreprise. Il a également mené plusieurs cybers enquêtes et a géré des crises majeures liées à des incidents de cybercriminalité, notamment dans le cas d’attaques globale et compromissions par rançongiciel (ransomware).  Il mène des analyses de risques complètes qui prennent autant en compte la sécurité physique de l’information que sa sécurité logique, ainsi que les vulnérabilités en ce qui a trait aux personnes, aux processus et aux technologies. Il s’appuie sur ses connaissances approfondies des technologies émergentes (IA, chiffrement quantique et architectures de chaînes de blocs), de la cybercriminalité et du Deep/Darkweb pour rendre les organisations cyber-résilientes, capables de résister aux menaces actuelles et futures.",
+          "description": "The subject will deal with the different stages of monetization of organizations by cybercriminals",
+          "language": "Francais",
+          "location": "Salle Jean Paul Morin",
+          "mode": "Présentiel",
+          "photo": "https://firebasestorage.googleapis.com/v0/b/prjtechweek2023.appspot.com/o/pictures%2F4M-cyber_crime.PNG?alt=media&token=859c2038-a665-4644-8bca-c3f017f38567",
+          "presenter": "By Bertrand Milot",
+          "time": "14h-15h",
+          "title": "Under the hood of cybercrime."
+        },
+        "day": 18,
+        "masterceremony": "Merry",
+        "theme": "Foundations"
+      }
