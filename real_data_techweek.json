@@ -1,0 +1,214 @@
+{
+  "event": {
+    "event_detail": {
+      "monday": {
+        "0": {
+          "acttype": "",
+          "biography": "",
+          "description": "",
+          "language": "",
+          "location": "",
+          "mode": "",
+          "photo": "",
+          "presenter": "Claude Marchand, CEO Lasalle",
+          "host": "",
+          "time": "10:15 - 10:25",
+          "title": "Opening word"
+        },
+        "1": {
+          "acttype": "",
+          "biography": "",
+          "description": "",
+          "language": "",
+          "location": "",
+          "mode": "",
+          "photo": "",
+          "presenter": "Elisa Schaeffer",
+          "host": " Salima Hassaine",
+          "time": "10:30 - 11:00",
+          "title": "Le gonflement et la thésaurisation dans le monde numérique qui nuisent à la planète"
+        },
+        "2": {
+          "acttype": "",
+          "biography": "",
+          "description": "",
+          "language": "",
+          "location": "",
+          "mode": "",
+          "photo": "",
+          "presenter": "Andrei Muratov",
+          "host": "Serge Poueme",
+          "time": "12:00 - 13:00",
+          "title": "Data-Informed Game Design, Development and Operations"
+        },
+        "3": {
+          "acttype": "",
+          "biography": "",
+          "description": "",
+          "language": "",
+          "location": "",
+          "mode": "",
+          "photo": "",
+          "presenter": "Jon Yu",
+          "host": "Abdelhak Fennouh",
+          "time": "13:30 - 15:30",
+          "title": "Création avec la realité augmentée"
+        },
+        "day": 18,
+        "masterceremony": "Pargol Poshtarej",
+        "theme": "Trends"
+       },
+       "tuesday": {
+        "0": {
+          "acttype": "",
+          "biography": "",
+          "description": "",
+          "language": "",
+          "location": "",
+          "mode": "",
+          "photo": "",
+          "presenter": "intro & moderator: Mourad Sehboub, multiple speakers",
+          "host": "",
+          "time": "8:30 - 10:00",
+          "title": "Open Source et les logiciels libres"
+        },
+        "1": {
+          "acttype": "",
+          "biography": "",
+          "description": "",
+          "language": "",
+          "location": "",
+          "mode": "",
+          "photo": "",
+          "presenter": "Julien Chosson",
+          "host": "Mourad Sehboub",
+          "time": "10:30 - 11:30",
+          "title": "The Era of Quantum Utility and how the Canadian ecosystem becomes Quantum-ready"
+        },
+        "2": {
+          "acttype": "",
+          "biography": "",
+          "description": "",
+          "language": "",
+          "location": "",
+          "mode": "",
+          "photo": "",
+          "presenter": "April Colossimo",
+          "host": "Mohamed Zeroug",
+          "time": "11:45 - 12:30",
+          "title": "Code Like a Knitter, and Vice Versa"
+        },
+        "3": {
+          "acttype": "",
+          "biography": "",
+          "description": "",
+          "language": "",
+          "location": "Mezzanine",
+          "mode": "",
+          "photo": "",
+          "presenter": "",
+          "host": "",
+          "time": "13:00 - 16:00",
+          "title": "Student project showcase"
+        },
+	"4": {
+          "acttype": "",
+          "biography": "",
+          "description": "",
+          "language": "",
+          "location": "",
+          "mode": "",
+          "photo": "",
+          "presenter": "",
+          "host": "Michelle Khalife",
+          "time": "13:00 - 15:00",
+          "title": "The Thinking Game - documentary screening"
+        },
+	"5": {
+          "acttype": "",
+          "biography": "",
+          "description": "",
+          "language": "",
+          "location": "",
+          "mode": "",
+          "photo": "",
+          "presenter": "Naya et al",
+          "host": "Elisa Schaeffer",
+          "time": "15:15 - 16:00",
+          "title": "Empowering Connections: Building Networks in Tech"
+        },
+        "day": 19,
+        "masterceremony": "Michelle Khalif",
+        "theme": "Foundations"
+       },
+"wednesday": {
+        "0": {
+          "acttype": "",
+          "biography": "",
+          "description": "",
+          "language": "",
+          "location": "",
+          "mode": "",
+          "photo": "",
+          "presenter": "",
+          "host": "",
+          "time": "",
+          "title": ""
+        },
+        "1": {
+          "acttype": "",
+          "biography": "",
+          "description": "",
+          "language": "",
+          "location": "",
+          "mode": "",
+          "photo": "",
+          "presenter": "",
+          "host": "",
+          "time": "",
+          "title": ""
+        },
+        "2": {
+          "acttype": "",
+          "biography": "",
+          "description": "",
+          "language": "",
+          "location": "",
+          "mode": "",
+          "photo": "",
+          "presenter": "",
+          "host": "",
+          "time": "",
+          "title": ""
+        },
+        "3": {
+          "acttype": "",
+          "biography": "",
+          "description": "",
+          "language": "",
+          "location": "",
+          "mode": "",
+          "photo": "",
+          "presenter": "",
+          "host": "",
+          "time": "",
+          "title": ""
+        },
+        "day": 20,
+        "masterceremony": "Merry",
+        "theme": "Foundations"
+       }
+
+     },
+    "event_information": {
+      "en": {
+        "days": "Monday,Tuesday,Wednesday,Thursday,Friday",
+        "title": "Techweek schedule 2024"
+      },
+      "fr": {
+        "days": "Lundi,Mardi,Mercredi,Jeudi,Vendredi",
+        "title": "Semaine techno 2024"
+      }
+    }
+  }
+}
