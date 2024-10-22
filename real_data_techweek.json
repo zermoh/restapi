@@ -140,63 +140,6 @@
         "day": 19,
         "masterceremony": "Michelle Khalif",
         "theme": "Foundations"
-       },
- "wednesday": {
-        "0": {
-          "acttype": "",
-          "biography": "",
-          "description": "",
-          "language": "",
-          "location": "",
-          "mode": "",
-          "photo": "",
-          "presenter": "Georgette Lucue Huacho  & Elisa Schaeffer",
-          "host": "",
-          "time": "8:15 - 8:45",
-          "title": "Quand la créativité rencontre la diversité : Neurodivergence et innovation dans la technologie et le design numérique"
-        },
-        "1": {
-          "acttype": "",
-          "biography": "",
-          "description": "",
-          "language": "",
-          "location": "",
-          "mode": "",
-          "photo": "",
-          "presenter": "Drew Hibyan & Katie Roberts",
-          "host": "Simon Cohen",
-          "time": "9:00 - 10:00",
-          "title": "Transforming Software Delivery: Enhancing Accessibility and Flexibility with AppsAnywhere"
-        },
-        "2": {
-          "acttype": "",
-          "biography": "",
-          "description": "",
-          "language": "",
-          "location": "",
-          "mode": "",
-          "photo": "",
-          "presenter": "",
-          "host": "",
-          "time": "",
-          "title": ""
-        },
-        "3": {
-          "acttype": "",
-          "biography": "",
-          "description": "",
-          "language": "",
-          "location": "",
-          "mode": "",
-          "photo": "",
-          "presenter": "",
-          "host": "",
-          "time": "",
-          "title": ""
-        },
-        "day": 20,
-        "masterceremony": "Merry",
-        "theme": "Foundations"
        }
      },
     "event_information": {
