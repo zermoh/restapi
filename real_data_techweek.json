@@ -1,0 +1,130 @@
+{
+  "event": {
+    "event_detail": {
+      "monday": {
+        "0": {
+          "acttype": "",
+          "biography": "",
+          "description": "",
+          "language": "",
+          "location": "",
+          "mode": "",
+          "photo": "",
+          "presenter": "Claude Marchand, CEO Lasalle",
+          "host": "",
+          "time": "10:15 - 10:25",
+          "title": "Opening word"
+        },
+        "1": {
+          "acttype": "",
+          "biography": "",
+          "description": "",
+          "language": "",
+          "location": "",
+          "mode": "",
+          "photo": "",
+          "presenter": "Elisa Schaeffer",
+          "host": " Salima Hassaine",
+          "time": "10:30 - 11:00",
+          "title": "Le gonflement et la thésaurisation dans le monde numérique qui nuisent à la planète"
+        },
+        "2": {
+          "acttype": "",
+          "biography": "",
+          "description": "",
+          "language": "",
+          "location": "",
+          "mode": "",
+          "photo": "",
+          "presenter": "Andrei Muratov",
+          "host": "Serge Poueme",
+          "time": "12:00 - 13:00",
+          "title": "Data-Informed Game Design, Development and Operations"
+        },
+        "3": {
+          "acttype": "",
+          "biography": "",
+          "description": "",
+          "language": "",
+          "location": "",
+          "mode": "",
+          "photo": "",
+          "presenter": "Jon Yu",
+          "host": "Abdelhak Fennouh",
+          "time": "13:30 - 15:30",
+          "title": "Création avec la realité augmentée"
+        },
+        "day": 18,
+        "masterceremony": "Pargol Poshtarej",
+        "theme": "Trends"
+       },
+       "tuesday": {
+        "0": {
+          "acttype": "",
+          "biography": "",
+          "description": "",
+          "language": "",
+          "location": "",
+          "mode": "",
+          "photo": "",
+          "presenter": "",
+          "host": "",
+          "time": "",
+          "title": ""
+        },
+        "1": {
+          "acttype": "",
+          "biography": "",
+          "description": "",
+          "language": "",
+          "location": "",
+          "mode": "",
+          "photo": "",
+          "presenter": "",
+          "host": "",
+          "time": "",
+          "title": ""
+        },
+        "2": {
+          "acttype": "",
+          "biography": "",
+          "description": "",
+          "language": "",
+          "location": "",
+          "mode": "",
+          "photo": "",
+          "presenter": "",
+          "host": "",
+          "time": "",
+          "title": ""
+        },
+        "3": {
+          "acttype": "",
+          "biography": "",
+          "description": "",
+          "language": "",
+          "location": "",
+          "mode": "",
+          "photo": "",
+          "presenter": "",
+          "host": "",
+          "time": "",
+          "title": ""
+        },
+        "day": 18,
+        "masterceremony": "Merry",
+        "theme": "Foundations"
+       }
+     },
+    "event_information": {
+      "en": {
+        "days": "Monday,Tuesday,Wednesday,Thursday,Friday",
+        "title": "Techweek schedule 2024"
+      },
+      "fr": {
+        "days": "Lundi,Mardi,Mercredi,Jeudi,Vendredi",
+        "title": "Semaine techno 2024"
+      }
+    }
+  }
+}
