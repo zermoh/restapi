@@ -150,10 +150,10 @@
           "location": "",
           "mode": "",
           "photo": "",
-          "presenter": "",
+          "presenter": "Georgette Lucue Huacho  & Elisa Schaeffer",
           "host": "",
-          "time": "",
-          "title": ""
+          "time": "8:15 - 8:45",
+          "title": "Quand la créativité rencontre la diversité : Neurodivergence et innovation dans la technologie et le design numérique"
         },
         "1": {
           "acttype": "",
@@ -163,10 +163,10 @@
           "location": "",
           "mode": "",
           "photo": "",
-          "presenter": "",
-          "host": "",
-          "time": "",
-          "title": ""
+          "presenter": "Drew Hibyan & Katie Roberts",
+          "host": "Simon Cohen",
+          "time": "9:00 - 10:00",
+          "title": "Transforming Software Delivery: Enhancing Accessibility and Flexibility with AppsAnywhere"
         },
         "2": {
           "acttype": "",
@@ -198,7 +198,7 @@
         "masterceremony": "Merry",
         "theme": "Foundations"
        }
-     }
+     },
     "event_information": {
       "en": {
         "days": "Monday,Tuesday,Wednesday,Thursday,Friday",
