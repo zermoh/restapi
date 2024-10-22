@@ -205,7 +205,7 @@
           "presenter": "",
           "host": "",
           "time": "",
-          "title": ""
+          "title": "=="
         },
 	  "5": {
           "acttype": "",
@@ -218,8 +218,8 @@
           "presenter": "",
           "host": "",
           "time": "",
-          "title": ""
-        }
+          "title": "=="
+        },
         "day": 20,
         "masterceremony": "Timothé Lafond",
         "theme": "Software"
