@@ -1,0 +1,73 @@
+{
+  "event": {
+    "event_detail": {
+      "monday": {
+        "0": {
+          "acttype": "",
+          "biography": "",
+          "description": "",
+          "language": "",
+          "location": "",
+          "mode": "",
+          "photo": "",
+          "presenter": "",
+          "host": "",
+          "time": "",
+          "title": ""
+        },
+        "1": {
+          "acttype": "",
+          "biography": "",
+          "description": "",
+          "language": "",
+          "location": "",
+          "mode": "",
+          "photo": "",
+          "presenter": "",
+          "host": "",
+          "time": "",
+          "title": ""
+        },
+        "2": {
+          "acttype": "",
+          "biography": "",
+          "description": "",
+          "language": "",
+          "location": "",
+          "mode": "",
+          "photo": "",
+          "presenter": "",
+          "host": "",
+          "time": "",
+          "title": ""
+        },
+        "3": {
+          "acttype": "",
+          "biography": "",
+          "description": "",
+          "language": "",
+          "location": "",
+          "mode": "",
+          "photo": "",
+          "presenter": "",
+          "host": "",
+          "time": "",
+          "title": ""
+        },
+        "day": 18,
+        "masterceremony": "Merry",
+        "theme": "Foundations"
+       }
+     },
+    "event_information": {
+      "en": {
+        "days": "Monday,Tuesday,Wednesday,Thursday,Friday",
+        "title": "Techweek schedule 2024"
+      },
+      "fr": {
+        "days": "Lundi,Mardi,Mercredi,Jeudi,Vendredi",
+        "title": "Semaine techno 2024"
+      }
+    }
+  }
+}
