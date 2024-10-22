@@ -199,13 +199,13 @@
           "biography": "",
           "description": "",
           "language": "",
-          "location": "",
+          "location": "Mezzanine",
           "mode": "",
           "photo": "",
           "presenter": "",
           "host": "",
-          "time": "",
-          "title": "=="
+          "time": "10:15 - 15:00",
+          "title": "=Laptop makeover fair="
         },
 	  "5": {
           "acttype": "",
@@ -215,10 +215,10 @@
           "location": "",
           "mode": "",
           "photo": "",
-          "presenter": "",
-          "host": "",
-          "time": "",
-          "title": "=="
+          "presenter": "Justin Penney",
+          "host": "Catherine Banville",
+          "time": "13:00 - 16:00",
+          "title": "Introduction to UX and UI design for Software developers"
         }
         "day": 20,
         "masterceremony": "Timothé Lafond",
