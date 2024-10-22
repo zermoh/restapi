@@ -140,65 +140,7 @@
         "day": 19,
         "masterceremony": "Michelle Khalif",
         "theme": "Foundations"
-       },
-"wednesday": {
-        "0": {
-          "acttype": "",
-          "biography": "",
-          "description": "",
-          "language": "",
-          "location": "",
-          "mode": "",
-          "photo": "",
-          "presenter": "",
-          "host": "",
-          "time": "",
-          "title": ""
-        },
-        "1": {
-          "acttype": "",
-          "biography": "",
-          "description": "",
-          "language": "",
-          "location": "",
-          "mode": "",
-          "photo": "",
-          "presenter": "",
-          "host": "",
-          "time": "",
-          "title": ""
-        },
-        "2": {
-          "acttype": "",
-          "biography": "",
-          "description": "",
-          "language": "",
-          "location": "",
-          "mode": "",
-          "photo": "",
-          "presenter": "",
-          "host": "",
-          "time": "",
-          "title": ""
-        },
-        "3": {
-          "acttype": "",
-          "biography": "",
-          "description": "",
-          "language": "",
-          "location": "",
-          "mode": "",
-          "photo": "",
-          "presenter": "",
-          "host": "",
-          "time": "",
-          "title": ""
-        },
-        "day": 20,
-        "masterceremony": "Merry",
-        "theme": "Foundations"
        }
-
      },
     "event_information": {
       "en": {
