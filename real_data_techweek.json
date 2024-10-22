@@ -189,10 +189,10 @@
           "location": "",
           "mode": "",
           "photo": "",
-          "presenter": "",
-          "host": "",
-          "time": "",
-          "title": ""
+          "presenter": "Sacha Gucciardo",
+          "host": "Mohamed Zeroug",
+          "time": "11:30 - 12:15",
+          "title": "From Data to Decisions The Power of Data Engineering"
         },
 	  "4": {
           "acttype": "",
