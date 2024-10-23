@@ -225,6 +225,115 @@
         "theme": "Software"
        }	    
      },
+"thursday": {
+        "0": {
+          "acttype": "",
+          "biography": "",
+          "description": "",
+          "language": "",
+          "location": "",
+          "mode": "",
+          "photo": "",
+          "presenter": "Elisa Schaeffer & Mirella di Spirito; closed cohort",
+          "host": "",
+          "time": "8:00 - 8:20",
+          "title": "Pep talk for Summer 2025 interns"
+        },
+        "1": {
+          "acttype": "",
+          "biography": "",
+          "description": "",
+          "language": "",
+          "location": "",
+          "mode": "",
+          "photo": "",
+          "presenter": "Ali Moridnejad",
+          "host": "Mahboobeh Masoud",
+          "time": "8:30 - 9:15",
+          "title": "Landing Your First Tech Job in Canada: Cross-Cultural Do’s and Don’ts"
+        },
+        "2": {
+          "acttype": "",
+          "biography": "",
+          "description": "",
+          "language": "",
+          "location": "",
+          "mode": "",
+          "photo": "",
+          "presenter": "Kaveh Bakhtiyari",
+          "host": "Mahboobeh Masoud",
+          "time": "9:30 - 10:15",
+          "title": "ChatGPT and Hallucination: An intro into Large Language Models"
+        },
+        "3": {
+          "acttype": "",
+          "biography": "",
+          "description": "",
+          "language": "",
+          "location": "",
+          "mode": "",
+          "photo": "",
+          "presenter": "Alexis Chebeia",
+          "host": "Elisa Schaeffer",
+          "time": "10:30 - 10:45",
+          "title": "Lightning talk: title pending"
+        },
+	  "4": {
+          "acttype": "",
+          "biography": "",
+          "description": "",
+          "language": "",
+          "location": "Mezzanine",
+          "mode": "",
+          "photo": "",
+          "presenter": "",
+          "host": "",
+          "time": "10:15 - 15:00",
+          "title": "Laptop makeover fair="
+        },
+	  "5": {
+          "acttype": "",
+          "biography": "",
+          "description": "",
+          "language": "",
+          "location": "",
+          "mode": "",
+          "photo": "",
+          "presenter": "Joël Quimper",
+          "host": "Zohreh Moeini",
+          "time": "11:00 - 11:45",
+          "title": "Intégrer le cloud dans votre stratégie TI en assurant la cybersécurité et la résilience"
+        },
+        "6": {
+          "acttype": "",
+          "biography": "",
+          "description": "",
+          "language": "",
+          "location": "",
+          "mode": "",
+          "photo": "",
+          "presenter": "Eric Briand",
+          "host": "Elisa Schaeffer",
+          "time": "12:00 - 12:30",
+          "title": "La technologie sans frontières : préparer l’avenir de nos talents"
+        },
+	"7": {
+          "acttype": "",
+          "biography": "",
+          "description": "",
+          "language": "",
+          "location": "",
+          "mode": "",
+          "photo": "",
+          "presenter": "Justin Penney",
+          "host": "Catherine Banville",
+          "time": "11:00 - 12:05",
+          "title": "A visit to Google on company premises"
+        },
+        "day": 21,
+        "masterceremony": "Andrew Golden",
+        "theme": "Career"
+       }	    	  
     "event_information": {
       "en": {
         "days": "Monday,Tuesday,Wednesday,Thursday,Friday",
