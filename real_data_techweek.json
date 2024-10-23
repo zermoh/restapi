@@ -332,7 +332,100 @@
         "day": 21,
         "masterceremony": "Andrew Golden",
         "theme": "Career"
-       }
+       },
+"friday": {
+        "0": {
+          "acttype": "",
+          "biography": "",
+          "description": "",
+          "language": "",
+          "location": "",
+          "mode": "",
+          "photo": "",
+          "presenter": "",
+          "host": "",
+          "time": "08:00 - 12:00",
+          "title": "Game jam"
+        },
+        "1": {
+          "acttype": "",
+          "biography": "",
+          "description": "",
+          "language": "",
+          "location": "",
+          "mode": "",
+          "photo": "",
+          "presenter": "",
+          "host": "",
+          "time": "13:00 - 18:00",
+          "title": "Game jam"
+        },
+        "day": 22,
+        "masterceremony": "",
+        "theme": "Gam jam"
+      },
+"saturday": {
+        "0": {
+          "acttype": "",
+          "biography": "",
+          "description": "",
+          "language": "",
+          "location": "",
+          "mode": "",
+          "photo": "",
+          "presenter": "",
+          "host": "",
+          "time": "08:00 - 12:00",
+          "title": "Game jam"
+        },
+        "1": {
+          "acttype": "",
+          "biography": "",
+          "description": "",
+          "language": "",
+          "location": "",
+          "mode": "",
+          "photo": "",
+          "presenter": "",
+          "host": "",
+          "time": "13:00 - 18:00",
+          "title": "Game jam"
+        },
+        "day": 23,
+        "masterceremony": "",
+        "theme": "Gam jam"
+      },
+"sunday": {
+        "0": {
+          "acttype": "",
+          "biography": "",
+          "description": "",
+          "language": "",
+          "location": "",
+          "mode": "",
+          "photo": "",
+          "presenter": "",
+          "host": "",
+          "time": "08:00 - 12:00",
+          "title": "Game jam"
+        },
+        "1": {
+          "acttype": "",
+          "biography": "",
+          "description": "",
+          "language": "",
+          "location": "",
+          "mode": "",
+          "photo": "",
+          "presenter": "",
+          "host": "",
+          "time": "13:00 - 18:00",
+          "title": "Game jam"
+        },
+        "day": 24,
+        "masterceremony": "",
+        "theme": "Gam jam"
+      }	    
   },
     "event_information": {
       "en": {
