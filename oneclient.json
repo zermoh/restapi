@@ -1,7 +1,4 @@
-[{
-    "clNumber": "100",
-    "clName": "David",
-    "clAddr": "Montreal",
-    "clTel": "5147221212",
-    "photo": "1Fr-augmented_reality.PNG"
-}]
+{
+    "username": "lasalle",
+    "password: "techweek2024"
+}
