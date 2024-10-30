@@ -18,7 +18,7 @@
         },
         "day": 22,
         "masterceremony": "",
-        "date":"dd",
+        "date": "November 22nd",
         "theme": "Gam jam"
       },
       "monday": {
@@ -79,6 +79,7 @@
           "title": "Création avec la realité augmentée"
         },
         "day": 18,
+        "date": "November 18th",
         "masterceremony": "Pargol Poshtarej",
         "theme": "Trends"
       },
