@@ -17,8 +17,8 @@
           "title": "Game jam "
         },
         "day": 22,
-        "masterceremony": "",
         "date": "November 22nd",
+        "masterceremony": "",
         "theme": "Gam jam"
       },
       "monday": {
@@ -99,6 +99,7 @@
           "title": "Game jam "
         },
         "day": 23,
+        "date": "November 23rd",
         "masterceremony": "",
         "theme": "Gam jam"
       },
@@ -235,6 +236,7 @@
           "title": "A visit to Google on company premises"
         },
         "day": 21,
+        "date": "November 21st",
         "masterceremony": "Andrew Golden",
         "theme": "Career"
       },
@@ -324,6 +326,7 @@
           "title": "Empowering Connections: Building Networks in Tech"
         },
         "day": 19,
+        "date": "November 19th",
         "masterceremony": "Michelle Khalif",
         "theme": "Foundations"
       },
@@ -413,6 +416,7 @@
           "title": "Introduction to UX and UI design for Software developers"
         },
         "day": 20,
+        "date": "November 20th",
         "masterceremony": "Timothé Lafond",
         "theme": "Software"
       }
