@@ -18,7 +18,8 @@
         },
         "day": 22,
         "masterceremony": "",
-        "theme": "Gam jam"
+        "theme": "Gam jam",
+        "date"
       },
       "monday": {
         "0": {
