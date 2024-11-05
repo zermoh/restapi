@@ -1,0 +1,105 @@
+{
+  "event1": {
+    "event_detail": {
+      "wednesday": {
+        "0": {
+          "acttype": "",
+          "biography": "",
+          "cancel": "",
+          "description": "",
+          "host": "",
+          "language": "Language: Français",
+          "location": "Room: Jean Paul Morin",
+          "mode": "",
+          "photo": "",
+          "presenter": "Speakers: Georgette Lucue Huacho  &  Elisa Schaeffer",
+          "time": "8:15 - 8:45",
+          "title": "Quand la créativité rencontre la diversité : Neurodivergence et innovation dans la technologie et le design numérique"
+        },
+        "1": {
+          "acttype": "",
+          "biography": "Drew has been with AppsAnywhere for two years and partners with Canadian institutions to ensure they are successful in the adoption and rollout of AppsAnywhere.  During his free time Drew enjoys spending time with his family and getting out for a round of golf. LinkedIn:https://www.linkedin.com/in/drew-hibyan/  .Katie joined in 2021 bringing an extensive knowledge of digital and global marketing, as well as a deep understanding of market needs within the education sector. Katie leads the AppsAnywhere business activities in the North American region from our North Carolina headquarters, as well as engaging existing customers through our community initiatives. Interests include travelling, long distance running, and experiencing new cultures. LinkedIn: https://www.linkedin.com/in/katie-a-roberts/",
+          "cancel": "",
+          "description": "AppsAnywhere is a cloud-based platform that simplifies access to university applications for students and staff. It allows users to run software on almost any device without local installation, using application virtualization technology powered by Numecent Cloudpaging. This ensures applications run smoothly across different devices, whether on-campus or off-campus.  The platform offers convenience by allowing access to software from anywhere, enhancing efficiency by reducing technical issues, and promoting inclusive access regardless of device type or location. Centralized updates by the university's IT team ensure users always have the latest software versions without manual installations. Overall, AppsAnywhere creates a more streamlined and flexible learning environment.",
+          "host": "Host: Simon Cohen",
+          "language": "Language: English",
+          "location": "Room: Jean Paul Morin",
+          "mode": "",
+          "photo": "",
+          "presenter": "Speakers: Drew Hibyan & Katie Roberts",
+          "time": "9:00 - 10:00",
+          "title": "Transforming Software Delivery: Enhancing Accessibility and Flexibility with AppsAnywhere"
+        },
+        "2": {
+          "acttype": "",
+          "biography": "Marc est un expert en gestion des systèmes adaptatifs complexes, avec une expérience approfondie acquise lors de son travail en planification stratégique à Transport for London, où il a dirigé des initiatives visant à influencer le comportement d'une grande ville. Sa connaissance pratique est renforcée par une compréhension approfondie des sciences de la complexité, développée lors de son rôle de leader d'équipe à l’Université McGill, où il a conçu des cours en ligne sur la complexité, la théorie organisationnelle et la gestion de projets. Tout au long de sa carrière, Marc a su allier aspects techniques et humains, en dirigeant des programmes de changement socioculturel à fort impact. Son approche polyvalente et son style de leadership, caractérisé par l'ouverture et l'empathie, lui permettent de guider les équipes dans la navigation et la mise en œuvre de stratégies efficaces au sein de systèmes complexes. En plus de son parcours professionnel, Marc est également conférencier à l’École des sciences de la gestion de l’Université du Québec à Montréal et membre du Conseil d’Administration de plusieurs organisations à but non lucratif. LinkedIn: https://www.linkedin.com/in/marc-delesclefs/. Régis est professeur agrégé au Département d’analytique, opérations et technologies de l’information de l'École des sciences de la gestion de l’UQAM. Ses recherches s’articulent autour de l’adoption et des effets des technologies sur les individus et les organisations.  LinkedIn: https://www.linkedin.com/in/regisbarondeau/ Elisa est une informaticienne mathématicienne qui aime passer du temps à programmer ou à jouer à des jeux vidéo entourée de chats. Son travail scientifique porte principalement sur les réseaux non uniformes, leurs modèles et leurs implications algorithmiques. Elle s'intéresse particulièrement à l'intelligence computationnelle, aux propriétés structurelles et à la complexité en général. Elle a commencé sa carrière universitaire à l'Université de technologie d'Helsinki (qui fait maintenant partie de l'Université Aalto) en Finlande, puis a travaillé pendant plus d'une décennie à l'Universidad Autónoma de Nuevo León au Mexique, après quoi elle a été professeure agrégée à l'Université McGill au Canada. Elle est actuellement doyenne informatique au Collège LaSalle. LinkedIn : https://www.linkedin.com/in/satuelisa/",
+          "cancel": "",
+          "description": "La question de l’obsolescence de l’homme, soulevée par Gunter Anders dans les années 50, est plus pertinente que jamais à l'ère des intelligences artificielles. Ces technologies nous fascinent autant qu’elles nous inquiètent. Mais, si au lieu de voir les IA comme des concurrents prêts à nous remplacer, nous les envisagions plutôt comme des moyens d'augmenter nos capacités? Et si, au lieu de les utiliser de manière simpliste, nous apprenions quelles sont leurs forces et leurs faiblesses? Pour répondre à ces questions, il est essentiel non seulement de comprendre le fonctionnement des IA, mais aussi de faire la différence entre les systèmes compliqués et les systèmes complexes.  Rejoignez-nous pour un panel de discussion captivant où trois experts en la matière exploreront les complexités de la gestion des différents types de systèmes présents dans la nature : ordonnés, complexes et chaotiques. Les participants écouteront des discussions approfondies sur la manière de reconnaître le système dans lequel ils évoluent et d'adapter leurs approches en conséquence. Nos experts aborderont les trois types de logique — déductive, inductive et abductive — tout en soulignant que l'IA est principalement inductive, offrant ses avantages majeurs dans le domaine ordonné. Cependant, c'est la pensée abductive des humains qui est susceptible de générer les plus grandes innovations pour relever les grands défis du monde. En combinant l'intelligence artificielle avec l'intuition humaine, nous pourrons réaliser des gains significatifs.  Le panel examinera également les trois types de données — grandes, épaisses et riches — et comment elles éclairent notre compréhension des systèmes. En fin de compte, cette discussion soulignera que les systèmes humains ne peuvent pas être efficacement analysés à l'aide de modèles prédictifs. Nous nous concentrerons plutôt sur la manière de travailler avec la réalité telle qu'elle est, en favorisant une culture de conscience et de réactivité. Rejoignez-nous pour transformer votre compréhension des dynamiques systémiques et améliorer vos stratégies de prise de décision.",
+          "host": "Host: Johnathan Mina",
+          "language": "Language: Français",
+          "location": "Room: Jean Paul Morin",
+          "mode": "",
+          "photo": "",
+          "presenter": "Speakers: Marc Delesclefs, Regis Barpondeau, Elisa Schaeffer",
+          "time": "10:15 - 11:15",
+          "title": "Obsolescence programmée du programmeur:  technological self-harm and self-help"
+        },
+        "3": {
+          "acttype": "",
+          "biography": "Sacha Gucciardo is a Belgian-born data professional currently based in Montreal, Canada. With a diverse international background, Sacha completed a Master's in Business Information Management at Rotterdam School of Management, Erasmus University in the Netherlands, followed by a Master's in Business Intelligence from HEC Montréal. Currently, Sacha works as a Data Engineer in the Data & Analytics Team at Bombardier. Outside of his data-driven career, Sacha hosts the \"AI with Sach\" podcast, discussing AI advancements with leaders in the field. While passionate about data, Sacha equally enjoys hiking and outdoor activities, maintaining a balance between his professional interests and love for nature. LinkedIn : https://www.linkedin.com/in/sachagucciardo/",
+          "cancel": "",
+          "description": "Ever wondered how Netflix knows exactly what to recommend? Or how your favorite apps seem to read your mind? In my talk, I'll take you on a journey through the hidden world of data engineering - the backbone of our digital experiences.",
+          "host": "Host: Mohamed Zeroug",
+          "language": "Language: English",
+          "location": "Room: Jean Paul Morin",
+          "mode": "",
+          "photo": "",
+          "presenter": "Speaker: Sacha Gucciardo",
+          "time": "11:30 - 12:15",
+          "title": "From Data to Decisions The Power of Data Engineering"
+        },
+        "4": {
+          "acttype": "",
+          "biography": "",
+          "cancel": "",
+          "description": "",
+          "host": "",
+          "language": "Language: Français/English",
+          "location": "Location: Mezzanine",
+          "mode": "",
+          "photo": "",
+          "presenter": "Activity: Laptop makeover fair",
+          "time": "10:15 - 15:00",
+          "title": "Laptop makeover fair"
+        },
+        "5": {
+          "acttype": "",
+          "biography": "Originally from Boston, MA, USA, Justin Penney has worked in many industries, including surgical instruments R&D, Healthcare, and education. He’s been a freelance Digital Marketer and Product Designer since 2020, transitioning to SaaS in 2022. A mentor on ADP List (Awesome Design People) since 2022, he has broad experience in mentoring software developers and graphic designers looking to transition into UX and Product design, as well as other UX / UI Product designers. He holds an Associate of Science in Computer Science, a Bachelor of Arts in Sociology from the University of Massachusetts in Boston, as well as a Master of Science in Digital Marketing and Design from Brandeis University in Waltham, MA, USA. LinkedIn: https://www.linkedin.com/in/justincpenney/",
+          "cancel": "",
+          "description": "In this introduction, we’ll consider UX vs UI design, what Product design means, as well as how the sector of software development complements and is complemented by design. Design isn’t just about making things look good, or artistic expression. Designers solve problems for everyday people by leaning on principles from psychology, established research findings, and industry best-practices.",
+          "host": "Host: Catherine Banville",
+          "language": "Language: English",
+          "location": "Room: Jean Paul Morin",
+          "mode": "",
+          "photo": "",
+          "presenter": "Speaker: Justin Penney",
+          "time": "13:00 - 16:00",
+          "title": "Introduction to UX and UI design for Software developers"
+        },
+        "day": 20,
+        "masterceremony": "Timothé Lafond",
+        "theme": "Software"
+      }
+    },
+    "event_information": {
+      "en": {
+        "days": "Monday,Tuesday,Wednesday,Thursday,Friday.Saturday,Sunday",
+        "title": "Techweek schedule 2024"
+      },
+      "fr": {
+        "days": "Lundi,Mardi,Mercredi,Jeudi,Vendredi,Samedi,Dimanche",
+        "title": "Semaine techno 2024"
+      }
+    }
+  }
+}
