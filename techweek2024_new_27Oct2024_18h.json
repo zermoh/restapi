@@ -24,7 +24,7 @@
         "0": {
           "acttype": "",
           "biography": "",
-          "cancel": "c",
+          "cancel": "",
           "description": "",
           "host": ":",
           "language": "Language: Français/English",
@@ -52,7 +52,7 @@
         "2": {
           "acttype": "",
           "biography": "Andrei has worked in the game industry since 2004, at various times as an artist, designer, producer and, more recently, as game analytics & game commerce leader at Ludia and WB Games.  Today, Andrei works with AWS customer game developers and publishers globally, helping build analytics and AI solutions for all genres of games. LinkedIn: https://www.linkedin.com/in/andrei-muratov/",
-          "cancel": "",
+          "cancel": "c",
           "description": "Modern games are the result of thousands of design decisions, and consistently making good decisions is the key to a successful game launch, and even more critical to ongoing improvement and operation of the game.  In this talk, we will look at how analytical data is collected and interpreted to inform decisions, and how post-launch operations require concerted integration of analytics, game backend infrastructure and player community technology.",
           "host": "Host: Serge Poueme",
           "language": "Language: English",
