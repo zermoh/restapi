@@ -24,7 +24,7 @@
         "0": {
           "acttype": "",
           "biography": "",
-          "cancel": "",
+          "cancel": "c",
           "description": "",
           "host": ":",
           "language": "Language: Français/English",
@@ -38,7 +38,7 @@
         "1": {
           "acttype": "",
           "biography": "Elisa est une informaticienne mathématicienne qui aime passer du temps à programmer ou à jouer à des jeux vidéo entourée de chats. Son travail scientifique porte principalement sur les réseaux non uniformes, leurs modèles et leurs implications algorithmiques. Elle s'intéresse particulièrement à l'intelligence computationnelle, aux propriétés structurelles et à la complexité en général. Elle a commencé sa carrière universitaire à l'Université de technologie d'Helsinki (qui fait maintenant partie de l'Université Aalto) en Finlande, puis a travaillé pendant plus d'une décennie à l'Universidad Autónoma de Nuevo León au Mexique, après quoi elle a été professeure agrégée à l'Université McGill au Canada. Elle est actuellement doyenne informatique au Collège LaSalle. LinkedIn: https://www.linkedin.com/in/satuelisa/ ",
-          "cancel": "",
+          "cancel": "d",
           "description": "Tous les jours, la plupart d’entre nous passons plusieurs heures en ligne, que ce soit avec un ordinateur ou avec un appareil mobile. Une part croissante de nos activités d’apprentissage se déroule par voie électronique. Connaître la façon dont nos choix affectent l'environnement nous permettre identifier des petits changements systématiques pour réduire les dommages.",
           "host": "Host: Salima Hassaine",
           "language": "Language: Français",
