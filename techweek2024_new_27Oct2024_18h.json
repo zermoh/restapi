@@ -23,7 +23,7 @@
       "monday": {
         "0": {
           "acttype": "",
-          "biography": "",
+          "biography": "Claude Marchand, CEO LCI Education",
           "cancel": "",
           "description": "",
           "host": ":",
@@ -38,7 +38,7 @@
         "1": {
           "acttype": "",
           "biography": "Elisa est une informaticienne mathématicienne qui aime passer du temps à programmer ou à jouer à des jeux vidéo entourée de chats. Son travail scientifique porte principalement sur les réseaux non uniformes, leurs modèles et leurs implications algorithmiques. Elle s'intéresse particulièrement à l'intelligence computationnelle, aux propriétés structurelles et à la complexité en général. Elle a commencé sa carrière universitaire à l'Université de technologie d'Helsinki (qui fait maintenant partie de l'Université Aalto) en Finlande, puis a travaillé pendant plus d'une décennie à l'Universidad Autónoma de Nuevo León au Mexique, après quoi elle a été professeure agrégée à l'Université McGill au Canada. Elle est actuellement doyenne informatique au Collège LaSalle. LinkedIn: https://www.linkedin.com/in/satuelisa/ ",
-          "cancel": "h",
+          "cancel": "",
           "description": "Tous les jours, la plupart d’entre nous passons plusieurs heures en ligne, que ce soit avec un ordinateur ou avec un appareil mobile. Une part croissante de nos activités d’apprentissage se déroule par voie électronique. Connaître la façon dont nos choix affectent l'environnement nous permettre identifier des petits changements systématiques pour réduire les dommages.",
           "host": "Host: Salima Hassaine",
           "language": "Language: Français",
@@ -52,7 +52,7 @@
         "2": {
           "acttype": "",
           "biography": "Andrei has worked in the game industry since 2004, at various times as an artist, designer, producer and, more recently, as game analytics & game commerce leader at Ludia and WB Games.  Today, Andrei works with AWS customer game developers and publishers globally, helping build analytics and AI solutions for all genres of games. LinkedIn: https://www.linkedin.com/in/andrei-muratov/",
-          "cancel": "c",
+          "cancel": "",
           "description": "Modern games are the result of thousands of design decisions, and consistently making good decisions is the key to a successful game launch, and even more critical to ongoing improvement and operation of the game.  In this talk, we will look at how analytical data is collected and interpreted to inform decisions, and how post-launch operations require concerted integration of analytics, game backend infrastructure and player community technology.",
           "host": "Host: Serge Poueme",
           "language": "Language: English",
@@ -66,7 +66,7 @@
         "3": {
           "acttype": "",
           "biography": "Jon Yu est le fondateur et le directeur général de Mythologi, un studio de design d'interaction et de recherche créative. Neuroscientifique interdisciplinaire, réalisateur de films et artiste numérique, il développe avec son équipe ELYSIUM : une boîte à outils de création XR sans code et une plateforme pour la construction d'un monde AR interactif en temps réel.  Sa vision est de démocratiser la créativité dans l'informatique spatiale pour favoriser une connectivité et engagement significatifs à l'intersection des lieux, des personnes et le numérique.",
-          "cancel": "d",
+          "cancel": "",
           "description": "Une présentation qui passera en revue la récente croissance exponentielle de l'informatique spatiale et examinera comment la réalité augmentée représente un nouveau modèle passionnant d'engagement avec des expériences numériques dans des contextes du monde réel. Nous examinerons quelques cas d'utilisation uniques, discuterons des défis actuels, tracerons l'évolution rapide de la technologie et, surtout, parlerons de l'évolution de notre relation avec les réalités numériques. LinkedIn: https://www.linkedin.com/in/jonscyu/",
           "host": "Host: Abdelhak Fennouh",
           "language": "Language: Français",
