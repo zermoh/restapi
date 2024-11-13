@@ -2,5 +2,10 @@
     "Project": "Mohamed Zeroug",
     "Developer": "Cedric James Mapilisan & Karim Farag",
     "Design": "Shilpa Shilpa & Daksh Miteshkumar Shah",
-    "Logo": "Daksh Miteshkumar Shah"
+    "Logo": "Daksh Miteshkumar Shah",
+    "LabelProject":"Coatch and Helper",
+    "LabelDev":"App Developers",
+    "LabelDes":"App Designers",
+    "LabelLogo":"App Logo"
+    
 }
