@@ -318,8 +318,22 @@
           "mode": "",
           "photo": "social_networking.jpg",
           "presenter": "Speakers: Naya Vasques, Sofia Guerrero, Camille Henrique",
-          "time": "15:15 - 16:00",
-          "title": "Empowering Connections: Building Networks in Tech"
+          "time": "15:15 - 15:45",
+          "title": "Panel Part I : Empowering Connections: Building Networks in Tech"
+        },
+        "6": {
+          "acttype": "",
+          "biography": "LinkedIn: https://www.linkedin.com/in/nayavasques/",
+          "cancel": "",
+          "description": "In this special panel, alumni and Google Women Techmakers (WTM) Ambassadors come together to discuss the importance of building meaningful connections and engaging in tech communities. They will offer valuable insights on how volunteering and community engagement can help you grow professionally, connect with mentors, and build a meaningful career in the tech industry.",
+          "host": "Host: Elisa Schaeffer",
+          "language": "Language: English ",
+          "location": "Room: Jean Paul Morin",
+          "mode": "",
+          "photo": "social_networking.jpg",
+          "presenter": "Speakers: Naya Vasques, Houda Kaddioui, Chloe Gaudreau",
+          "time": "16:00 - 16:45",
+          "title": "Panel Part I : Empowering Connections: Building Networks in Tech"
         },
         "day": 19,
         "masterceremony": "Michelle Khalife",
