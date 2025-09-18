@@ -1,17 +1,17 @@
 [{
     "dayDigit": 29,
     "dayLetter": "Mon",
-    "month": "Sept 2025"
+    "month": "Sep. 2025"
 },
 {
-    "dayDigit": 19,
+    "dayDigit": 30,
     "dayLetter": "Tue",
-    "month": "Nov 2024"
+    "month": "Sep. 2025"
 },
 {
     "dayDigit": 20,
     "dayLetter": "Wed",
-    "month": "Nov 2024"
+    "month": "Sep. 2025"
 },
 {
     "dayDigit": 21,
@@ -34,6 +34,7 @@
     "month": "Nov 2024"
 }
 ]
+
 
 
 
