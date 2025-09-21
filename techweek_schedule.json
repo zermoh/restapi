@@ -16,7 +16,7 @@
           "time": "12:00-19:00 (Kick-off) ",
           "title": "Game jam "
         },
-        "day": 22,
+        "day": 3,
         "masterceremony": "",
         "theme": ""
       },
@@ -35,7 +35,7 @@
           "time": "17:00 - 19:00",
           "title": "A Journey to Generative AI"
         },
-        "day": 18,
+        "day": 29,
         "masterceremony": "Pargol Poshtarej",
         "theme": "General"
       },
@@ -54,7 +54,7 @@
           "time": "09:00-19:00 (Kick-off)",
           "title": "Game jam "
         },
-        "day": 23,
+        "day": 3,
         "masterceremony": "",
         "theme": "Gam jam"
       },
@@ -87,7 +87,7 @@
           "time": "14:00",
           "title": "Game jam "
         },
-        "day": 24,
+        "day": 4,
         "masterceremony": "",
         "theme": "Gam jam"
       },
@@ -190,7 +190,7 @@
           "time": "11:00 - 12:05",
           "title": "A visit to Google on company premises"
         },
-        "day": 21,
+        "day": 2,
         "masterceremony": "Andrew Golden",
         "theme": "Career"
       },
@@ -265,7 +265,7 @@
           "time": "15:15 - 15:45",
           "title": "Tendances de l'IA : Agentic AI and federated learning"
         },
-        "day": 19,
+        "day": 30,
         "masterceremony": "",
         "theme": "Entrepreneuriat & l'IA"
       },
@@ -354,7 +354,7 @@
           "time": "13:00 - 16:00",
           "title": "Introduction to UX and UI design for Software developers"
         },
-        "day": 20,
+        "day": 1,
         "masterceremony": "Timothé Lafond",
         "theme": "Software"
       }
