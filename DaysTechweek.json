@@ -1,39 +1,40 @@
 [{
-    "dayDigit": "29",
+    "dayDigit": 29,
     "dayLetter": "Mon",
     "month": "Sep. 2025"
 },
 {
-    "dayDigit": "30",
+    "dayDigit": 30,
     "dayLetter": "Tue",
     "month": "Sep. 2025"
 },
 {
-    "dayDigit": "01",
+    "dayDigit": 1,
     "dayLetter": "Wed",
     "month": "Oct. 2025"
 },
 {
-    "dayDigit": "02",
+    "dayDigit": 2,
     "dayLetter": "Thu",
     "month": "Oct. 2025"
 },
 {
-    "dayDigit": "03",
+    "dayDigit": 3,
     "dayLetter": "Fri",
     "month": "Oct. 2025"
 },
 {
-    "dayDigit": "04",
+    "dayDigit": 4,
     "dayLetter": "Sat",
     "month": "Oct. 2025"
 },
 {
-    "dayDigit": "05",
+    "dayDigit": 5,
     "dayLetter": "Sun",
     "month": "Oct. 2025"
 }
 ]
+
 
 
 
